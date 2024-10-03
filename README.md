@@ -6,7 +6,7 @@ I am a passionate B.Tech CSE student at KL UNIVERSITY  Vijayawada, driven by a c
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
+- 🔭 I'm currently pursuing my Master's in Computer Science at KL UNIVERSITY Vijayawada.
 - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
